@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010508541504",
+    "firebase_url": "https://rhum-51a79.firebaseio.com",
+    "project_id": "rhum-51a79",
+    "storage_bucket": "rhum-51a79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010508541504:android:50c68f86d77901f36179a5",
+        "android_client_info": {
+          "package_name": "com.azza.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010508541504-rr3mba3disbae4h123ov4f3fbun3706k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azza.app",
+            "certificate_hash": "a1f9acaf3fc84c9c3c4d8139dcd1dbc1e4cf1cc2"
+          }
+        },
+        {
+          "client_id": "1010508541504-0lt0ablq52qdu58i4sibu1mcjidq4f9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVj1m8PvqVCiRunuX8cZdoLFSbKJHrhi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010508541504-0lt0ablq52qdu58i4sibu1mcjidq4f9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
