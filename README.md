@@ -1,6 +1,6 @@
 # app
 
-A new Flutter application.
+Human resources mobile application developed using flutter , Firebase and dialogflow
 
 ## Getting Started
 
