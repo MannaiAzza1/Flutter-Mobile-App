@@ -1,4 +1,4 @@
-# app
+# Human Resources Mobile Application
 
 Human resources mobile application developed using flutter , Firebase and dialogflow
 
